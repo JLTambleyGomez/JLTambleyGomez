@@ -16,7 +16,7 @@ Me apasiona crear aplicaciones web interactivas y escalables. También me siento
 
 ## *¿Adonde me dirijo?*
 
-Estoy interesada en aprender más sobre el desarrollo de aplicaciones móviles y paginas web, estoy explorando oportunidades para trabajar en proyectos que combinen tecnología y sostenibilidad, ya que creo firmemente en el poder de la tecnología para crear un impacto positivo en el mundo.
+Estoy interesado en aprender más sobre el desarrollo de paginas web complejas , estoy explorando oportunidades para trabajar en proyectos que combinen tecnología y sostenibilidad, ya que creo firmemente en el poder de la tecnología para crear un impacto positivo en el mundo.
 Quisiera ampliar cada día más mis conocimientos tecnologícos para brindar la mejor experiencia al usuario a la hora de presenciar mis proyectos.  
 *¡Siempre estoy abierto a colaborar en nuevos proyectos y conocer a personas apasionadas por la tecnología y la innovación!*
 

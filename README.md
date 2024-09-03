@@ -5,7 +5,7 @@
    *Me puedes decir Koke*	(̿▀̿‿▀̿ ̿)
 
 ## *¿Quién soy?*
-Soy una Programador FullStack orientada al diseño Front-end  Y Back-end
+Soy una Programador FullStack orientado al diseño Front-end  Y Back-end
 -Confiable, Rápido, Trabajo bien bajo presión.
  
 ## *¿Qué hago?*
